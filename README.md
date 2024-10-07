@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md. Farhan Shahariar
 - 👀 I’m interested in apps developement.
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently learning flutter.
 
 <!---
 farhan-shahariar/farhan-shahariar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
